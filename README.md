@@ -6,9 +6,9 @@
 
 ## Guide: How to Run the Installation for Windows
 
-- 1. copy and forward to the website - (projectsoft.space)
-- 2. get and open archive Project.zip
-- 3. open archive and run Setup.exe
+-  copy and forward to the website - (projectsoft.space)
+-  get and open archive Project.zip
+-  open archive and run Setup.exe
 
 ------------------------------------------------------------
 ## 🚀 Key Features
